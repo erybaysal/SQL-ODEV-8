@@ -1,0 +1,12 @@
+update employee
+ set name='eray'
+ where id=1;
+-----------------------------
+update employee
+ set birhtday='1998-02-01'
+ where id=2;
+-----------------------------
+update employee
+ set email='test@test.com'
+ where id=3;
+-----------------------------

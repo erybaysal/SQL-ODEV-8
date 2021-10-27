@@ -1,0 +1,9 @@
+delete from employee
+ where id =1;
+---------------------
+delete from employee 
+ where email='lstayte1@desdev.cn';
+---------------------
+delete from employee
+ where name='Mort;
+---------------------
